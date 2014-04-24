@@ -1,0 +1,9 @@
+{
+	"name": "noprotocol/google-spreadsheet",
+	"autoload": {
+        "classmap": ["src/"]
+    },
+     "require": {
+        "google/apiclient": "*"
+    }
+}
